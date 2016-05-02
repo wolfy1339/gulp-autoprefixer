@@ -3,7 +3,7 @@
   "version": "3.1.0",
   "description": "Prefix CSS",
   "license": "MIT",
-  "repository": "sindresorhus/gulp-autoprefixer",
+  "repository": "wolfy1339/gulp-autoprefixer",
   "author": {
     "name": "Sindre Sorhus",
     "email": "sindresorhus@gmail.com",
@@ -30,11 +30,11 @@
     "postcss-runner"
   ],
   "dependencies": {
-    "autoprefixer": "^6.0.0",
-    "gulp-util": "^3.0.0",
-    "postcss": "^5.0.4",
-    "through2": "^2.0.0",
-    "vinyl-sourcemaps-apply": "^0.2.0"
+    "autoprefixer": "^6.3.6",
+    "gulp-util": "^3.0.7",
+    "postcss": "^5.0.21",
+    "through2": "^2.0.1",
+    "vinyl-sourcemaps-apply": "^0.2.1"
   },
   "devDependencies": {
     "gulp-sourcemaps": "^1.1.1",
